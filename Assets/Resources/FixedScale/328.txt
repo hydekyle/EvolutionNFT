@@ -1,0 +1,1 @@
+{"customScale":{"x":1.0,"y":1.0,"z":1.4209825992584229},"customPosition":{"x":-30.30000114440918,"y":-31.0,"z":0.0},"customPosition_right":{"x":-30.299999237060548,"y":-31.0,"z":0.0},"customRotation_right":{"x":0.0,"y":0.0,"z":0.0}}

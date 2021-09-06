@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "559394356161",
+    "firebase_url": "https://evolution-27145926.firebaseio.com",
+    "project_id": "evolution-27145926",
+    "storage_bucket": "evolution-27145926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559394356161:android:6c58bc8750b12b2f",
+        "android_client_info": {
+          "package_name": "com.DalasGalaxy.Evolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559394356161-2ra3mp2v4fc87ehmqt27e2b8ct4anvij.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "559394356161-r6ku2qakpohn289q32d8nuccsor6gmpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DalasGalaxy.Evolution",
+            "certificate_hash": "d56fe46aafa507ab75a3aef5a98f881e877d1c3e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA64U8xApFTmsf6BXucSZDZCJAtYBDqw6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559394356161-2ra3mp2v4fc87ehmqt27e2b8ct4anvij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

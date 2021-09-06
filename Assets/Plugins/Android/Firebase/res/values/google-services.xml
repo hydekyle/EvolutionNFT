@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://evolution-27145926.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">559394356161</string>
+  <string name="google_storage_bucket" translatable="false">evolution-27145926.appspot.com</string>
+  <string name="project_id" translatable="false">evolution-27145926</string>
+  <string name="google_api_key" translatable="false">AIzaSyA64U8xApFTmsf6BXucSZDZCJAtYBDqw6c</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA64U8xApFTmsf6BXucSZDZCJAtYBDqw6c</string>
+  <string name="google_app_id" translatable="false">1:559394356161:android:6c58bc8750b12b2f</string>
+  <string name="default_web_client_id" translatable="false">559394356161-2ra3mp2v4fc87ehmqt27e2b8ct4anvij.apps.googleusercontent.com</string>
+</resources>
