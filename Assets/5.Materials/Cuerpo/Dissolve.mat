@@ -73,7 +73,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Level: 0.18076067
+    - _Level: 1
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -88,4 +88,3 @@ Material:
     - _EdgeColour1: {r: 1, g: 0.38841486, b: 0, a: 1}
     - _EdgeColour2: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-  m_BuildTextureStacks: []
